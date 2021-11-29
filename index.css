@@ -9,9 +9,9 @@ html, body {
 }
 
 .color-container > div {
-    height: 100px;
-    width: 120px;
-    border: 1px solid black;
+    height: auto;
+    width: auto;
+    border: 8px solid rgb(153, 153, 153);
 }
 
 div#blue {
